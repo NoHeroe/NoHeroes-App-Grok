@@ -1,101 +1,50 @@
-import 'package:json_annotation/json_annotation.dart';
+import 'package:drift/drift.dart';
+import 'items.dart';
 
-part 'inventory.g.dart';
+class Inventory extends Table {
+  /// ID único da instância do item (não o item base)
+  TextColumn get id => text()(); // UUID
 
-@JsonSerializable(explicitToJson: true)
-class InventoryItem {
-  /// ID único da instância do item.
-  /// Pode ser:     itemId_timestamp   ou   UUID
-  final String id;
+  /// ID do item base, ligado ao catálogo
+  TextColumn get itemId => text().references(Items, #id)();
 
-  /// ID do item base (cadastrado no catálogo)
-  final String itemId;
-
-  /// Quantidade (stack)
-  final int quantity;
+  /// Quantidade stack
+  IntColumn get quantity => integer().withDefault(const Constant(1))();
 
   /// Durabilidade atual
-  final int durability;
+  IntColumn get durability => integer().withDefault(const Constant(0))();
 
-  /// SLOT equipado: head, chest, hand1, relic...
-  final String? equippedSlot;
+  /// Slot equipado (ou null)
+  TextColumn get equippedSlot => text().nullable()();
 
-  // --------------------------------------------------------------------
-  // 🔥 CAMPOS QUE FALTAVAM NO MODELO — ESSENCIAIS PRA VERSÃO COMPLETA
-  // --------------------------------------------------------------------
+  // -------------------------------------------------------------------
+  // 🔥 CAMPOS NOVOS — ESSENCIAIS PARA O SISTEMA AVANÇADO
+  // -------------------------------------------------------------------
 
-  /// True → item é inquebrável nesta instância (ex: Sombrio ou Divino)
-  final bool isIndestructible;
+  /// item não pode quebrar (Sombrios/Divinos)
+  BoolColumn get isIndestructible =>
+      boolean().withDefault(const Constant(false))();
 
-  /// Data de obtenção (para histórico, conquistas, sorting)
-  final DateTime obtainedAt;
+  /// Data de obtenção (para sorting, conquistas, histórico)
+  DateTimeColumn get obtainedAt =>
+      dateTime().withDefault(currentDateAndTime)();
 
-  /// Última vez que o item foi usado (consumível, munição, relíquia)
-  final DateTime? lastUsedAt;
+  /// Último uso (para cooldown, munição)
+  DateTimeColumn get lastUsedAt => dateTime().nullable()();
 
-  /// Cooldown global/restante de uso (ex: relíquias com cooldown)
-  final DateTime? cooldownEndsAt;
+  /// Cooldown de uso até tal horário
+  DateTimeColumn get cooldownEndsAt => dateTime().nullable()();
 
-  /// Histórico de upgrades individuais (ex: "reforged", "+1", "+2")
-  final List<String> upgradeHistory;
+  /// Histórico de upgrades (“+1”, “reforged”, etc.)
+  /// Armazenado como JSON string
+  TextColumn get upgradeHistory =>
+      text().withDefault(const Constant('[]'))();
 
-  /// Instâncias sombrias podem ter propriedades únicas
-  final Map<String, dynamic>? uniqueData;
+  /// Dados únicos do item sombrios, divinos ou modificados
+  /// JSON livre armazenado como texto
+  TextColumn get uniqueData =>
+      text().nullable()(); // '{ "corruption": 12, "blessing": true }'
 
-  const InventoryItem({
-    required this.id,
-    required this.itemId,
-    required this.quantity,
-    required this.durability,
-    this.equippedSlot,
-
-    // novos campos
-    required this.isIndestructible,
-    required this.obtainedAt,
-    this.lastUsedAt,
-    this.cooldownEndsAt,
-    this.upgradeHistory = const [],
-    this.uniqueData,
-  });
-
-  // ================================================================
-  // COPY
-  // ================================================================
-
-  InventoryItem copyWith({
-    String? id,
-    String? itemId,
-    int? quantity,
-    int? durability,
-    String? equippedSlot,
-    bool? isIndestructible,
-    DateTime? obtainedAt,
-    DateTime? lastUsedAt,
-    DateTime? cooldownEndsAt,
-    List<String>? upgradeHistory,
-    Map<String, dynamic>? uniqueData,
-  }) {
-    return InventoryItem(
-      id: id ?? this.id,
-      itemId: itemId ?? this.itemId,
-      quantity: quantity ?? this.quantity,
-      durability: durability ?? this.durability,
-      equippedSlot: equippedSlot ?? this.equippedSlot,
-      isIndestructible: isIndestructible ?? this.isIndestructible,
-      obtainedAt: obtainedAt ?? this.obtainedAt,
-      lastUsedAt: lastUsedAt ?? this.lastUsedAt,
-      cooldownEndsAt: cooldownEndsAt ?? this.cooldownEndsAt,
-      upgradeHistory: upgradeHistory ?? this.upgradeHistory,
-      uniqueData: uniqueData ?? this.uniqueData,
-    );
-  }
-
-  // ================================================================
-  // JSON
-  // ================================================================
-
-  factory InventoryItem.fromJson(Map<String, dynamic> json) =>
-      _$InventoryItemFromJson(json);
-
-  Map<String, dynamic> toJson() => _$InventoryItemToJson(this);
+  @override
+  Set<Column> get primaryKey => {id};
 }
