@@ -1,0 +1,102 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+import '../../application/quests/quest_controller.dart';
+import '../../domain/models/quest.dart';
+import '../../domain/services/quest_providers.dart';
+import 'widgets/progress_modal.dart';
+
+class QuestDetailPage extends ConsumerWidget {
+  final String userId;
+  final QuestTemplate template;
+
+  const QuestDetailPage({
+    super.key,
+    required this.userId,
+    required this.template,
+  });
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final asyncInstances = ref.watch(questControllerProvider(userId));
+
+    return Scaffold(
+      backgroundColor: Colors.black,
+      appBar: AppBar(
+        title: Text(template.title),
+        backgroundColor: Colors.black.withOpacity(.4),
+      ),
+      body: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: asyncInstances.when(
+          loading: () => const Center(child: CircularProgressIndicator()),
+          error: (e, _) => Text("Erro: $e"),
+          data: (instances) {
+            final inst = instances
+                .firstWhere((x) => x.questId == template.id, orElse: () => null);
+
+            return ListView(
+              children: [
+                Text(
+                  template.description,
+                  style: const TextStyle(fontSize: 16, color: Colors.white),
+                ),
+                const SizedBox(height: 20),
+
+                if (inst == null)
+                  ElevatedButton(
+                    onPressed: () async {
+                      await ref
+                          .read(questControllerProvider(userId).notifier)
+                          .startQuest(template.id);
+                      Navigator.of(context).pop();
+                    },
+                    child: const Text("Iniciar Quest"),
+                  ),
+
+                if (inst != null) _buildInstance(context, ref, inst),
+              ],
+            );
+          },
+        ),
+      ),
+    );
+  }
+
+  Widget _buildInstance(BuildContext context, WidgetRef ref, QuestInstance inst) {
+    final progress =
+        "${inst.currentProgress}/${inst.targetProgress}";
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text("Progresso: $progress",
+            style: const TextStyle(fontSize: 16, color: Colors.white70)),
+        const SizedBox(height: 12),
+
+        ElevatedButton(
+          onPressed: () {
+            showDialog(
+              context: context,
+              builder: (_) => ProgressModal(
+                userId: userId,
+                instance: inst,
+              ),
+            );
+          },
+          child: const Text("Atualizar Progresso"),
+        ),
+
+        const SizedBox(height: 12),
+        ElevatedButton(
+          style: ElevatedButton.styleFrom(backgroundColor: Colors.red),
+          onPressed: () {
+            ref.read(questControllerProvider(userId).notifier).fail(inst);
+            Navigator.pop(context);
+          },
+          child: const Text("Falhar Quest"),
+        ),
+      ],
+    );
+  }
+}
