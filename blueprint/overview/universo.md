@@ -27,7 +27,7 @@ O jogador é uma dessas anomalias.
 
 ---
 
-📍 BLOCO 2 — A Convocação (Rascunho)
+📍 BLOCO 2 — A Convocação
 
 Ninguém em Caelum entende o Vazio completamente.
 Poucos falam sobre ele, e menos ainda ousam estudá-lo.
@@ -907,7 +907,7 @@ Ele pertence a dois mundos.
 
 
 
-📍 BLOCO 7 — Vitalismo no APP (Rascunho)
+📍 BLOCO 7 — Vitalismo no APP
 
 Vitalismo, no universo NoHeroes, é a arte de manipular, canalizar ou condensar a Energia Vital — a força que flui por todos os seres vivos e sustenta o equilíbrio entre luz, sombra e existência.
 
@@ -1499,7 +1499,7 @@ profundidade psicológica real
 
 
 
-📍 BLOCO 9 — Criaturas de Caelum no APP (Versão Final)
+📍 BLOCO 9 — Criaturas de Caelum no APP
 
 Caelum é um mundo vivo — mas desde a Terceira Era, tornou-se algo além disso.
 Com a ação do Vazio, a queda das grandes cidades, a reconstrução de Nova Draconis, e a instabilidade que tomou o continente, Caelum virou um terreno de caos energético, mutação e invasões interdimensionais.
@@ -1836,7 +1836,7 @@ Pessoais → psicologia, evolução, sombra
 
 
 
-📍 BLOCO 10 — Facções de Caelum (Versão Final)
+📍 BLOCO 10 — Facções de Caelum 
 
 Após a queda dos quatro clãs originais, a destruição de Kaleidos e Aeon, e a ascensão da Legião Negra, Caelum entrou em uma nova era — marcada por caos político, reorganização de poderes e a presença crescente dos Convocados.
 
@@ -2220,7 +2220,7 @@ Algumas rotas fecharão após mudança
 
 
 
-📍 BLOCO 11 — Estrutura Mágica do Universo (Versão Final)
+📍 BLOCO 11 — Estrutura Mágica do Universo
 
 O universo de NoHeroes não é sustentado por uma única força sobrenatural.
 Ele é composto por múltiplas energias, cada uma com origem, impacto e comportamento próprios.
@@ -2581,7 +2581,7 @@ Bioluminescência, mutações, pulsação orgânica.
 
 
 
-📍 BLOCO 12 — Fendas Dimensionais e Anomalias (Versão Final)
+📍 BLOCO 12 — Fendas Dimensionais e Anomalias 
 
 As fendas dimensionais são rupturas instáveis no tecido da realidade.
 Elas não fazem parte do processo de convocação, nem estão ligadas ao Shadow System — mas são sintomas diretos de um problema muito maior:
@@ -3125,7 +3125,7 @@ E então o jogador desperta.
 
 
 
-📍 BLOCO 14 — Ecos da Terra e Outras Dimensões (Versão Final)
+📍 BLOCO 14 — Ecos da Terra e Outras Dimensões
 
 O universo de NoHeroes não é composto apenas de Caelum.
 Nem apenas de Chrysalis.
@@ -3459,6 +3459,999 @@ Mas isso pode mudar.
 
 ---
 
+
+
+📍 BLOCO 15 — Glossário Dimensional & Leis Fundamentais 
+
+O universo NoHeroes opera sobre um conjunto de leis profundas que regem todas as realidades envolvidas.
+Essas leis determinam:
+
+o que atravessa mundos
+
+o que funciona onde
+
+como energia opera
+
+como criaturas interagem
+
+o que Convocados podem ou não fazer
+
+
+Este glossário consolida conceitos essenciais e fixa as regras que sustentam todo o universo do app.
+
+
+---
+
+1. Caelum
+
+O mundo principal.
+Energeticamente rico, instável e complexo.
+
+Características:
+
+possui Vitalismo
+
+possui Mana (vitalismo inferior)
+
+possui Runas
+
+possui Energia Positiva/Negativa
+
+é fortemente afetado pelo Vazio
+
+é conectado a múltiplas dimensões (por feridas, não por portas)
+
+
+Única regra:
+A energia de Caelum só funciona em Caelum.
+
+
+---
+
+2. Terra
+
+Um mundo de energia fraca.
+Sem magia.
+Sem vitalismo.
+Sem runas.
+
+Mas com:
+
+emoções intensas
+
+biologia estável
+
+tecnologia própria
+
+
+É um mundo leve, ignorado por outras dimensões — até o surgimento dos Convocados.
+
+Regras:
+
+técnicas biológicas funcionam
+
+seivas funcionam
+
+mutações funcionam
+
+vitalismo não funciona
+
+
+
+---
+
+3. Chrysalis
+
+Um plano biológico, mutante e evolutivo.
+Regido por:
+
+seiva
+
+mutações
+
+evolução forçada
+
+estruturas híbridas (bio-tecnológicas)
+
+criaturas adaptativas
+
+
+Regras:
+
+seiva funciona em qualquer mundo
+
+mutações funcionam em qualquer mundo
+
+poderes biológicos atravessam dimensões
+
+vitalismo não funciona aqui
+
+
+
+---
+
+4. O Vazio
+
+Não é um plano.
+Não é um mundo.
+Não é um reino.
+
+É a não-existência entre mundos.
+
+Funções do Vazio:
+
+condensa emoções
+
+distorce energia
+
+aproxima mundos
+
+desperta conexões naturais
+
+puxa seres sincronizados
+
+influencia sombra e vitalismo
+
+permite convocação (mas não através de fendas)
+
+
+Ele não abre portais.
+Ele abre rachaduras.
+
+E centra tudo em uma lei:
+
+“O Vazio não conecta mundos — ele remove as barreiras que os mantinham separados.”
+
+
+---
+
+5. Vitalismo
+
+Energia superior, rara e poderosa.
+Pertence a Caelum.
+
+Origem:
+
+alma
+
+emoção
+
+vida intensa
+
+afinidade rara
+
+anomalias dimensionais (Convocados)
+
+
+Usos:
+
+fortalecimento
+
+habilidades
+
+defesa
+
+manipulação rúnica
+
+estabilização do avatar
+
+controle energético
+
+
+Não funciona fora de Caelum.
+
+Regra Absoluta:
+
+> Vitalismo pertence ao universo. Quando você deixa o universo, deixa o Vitalismo.
+
+
+
+
+---
+
+6. Mana
+
+Versão inferior do Vitalismo.
+Mais comum.
+Utilizada por nativos como energia arcana básica.
+
+funciona apenas em Caelum
+
+está abaixo do Vitalismo
+
+não atravessa mundos
+
+
+
+---
+
+7. Energia Positiva
+
+Ligada a:
+
+Lurai
+
+luz
+
+cura
+
+emoções elevadas
+
+ordem
+
+proteção
+
+
+Pode estabilizar:
+
+vitalismo
+
+runas
+
+estruturas espirituais
+
+
+Funciona apenas em Caelum.
+
+
+---
+
+8. Energia Negativa
+
+Associada a:
+
+Drakkai
+
+demônios
+
+sombras
+
+trauma
+
+vício
+
+falhas repetidas
+
+dor coletiva
+
+fendas do Vazio
+
+
+É combustível para:
+
+aberrações
+
+sombras
+
+Voidrins
+
+distorções
+
+
+Funciona apenas em Caelum.
+
+
+---
+
+9. Runas
+
+Estruturas de ordem primordial.
+Existem antes das eras mortais.
+
+Propriedades:
+
+nunca atravessam mundos
+
+canalizam vitalismo, mana e energia emocional
+
+podem estabilizar fendas
+
+podem reforçar técnicas
+
+podem amplificar habilidades
+
+são parte técnica, parte espiritual
+
+
+Runas não são palavras mágicas:
+são leis primordiais cristalizadas.
+
+
+---
+
+10. Seiva
+
+Energia biológica.
+Não espiritual.
+Não mágica.
+
+Regras:
+
+funciona em qualquer mundo
+
+mutações funcionam em qualquer mundo
+
+aperfeiçoamentos corporais funcionam em qualquer mundo
+
+pode coexistir com vitalismo (apenas em Caelum)
+
+é fonte de corrupções N1–N6
+
+
+Seiva é perigosa, mas universal.
+
+
+---
+
+11. Elementais
+
+Manifestação da interação entre:
+
+mana
+
+vitalismo
+
+runas
+
+energia positiva/negativa
+
+elementos naturais
+
+
+Elementais são nativos de Caelum, mas suas formas podem existir em múltiplos planos.
+O poder deles, não.
+
+
+---
+
+12. Convocação
+
+A convocação só puxa:
+
+seres vivos
+
+conscientes
+
+emocionalmente densos
+
+sincronizados no momento exato com o eco dimensional
+
+
+Pode puxar:
+
+humanos
+
+criaturas sapientes
+
+seres de outros mundos (raros)
+
+
+Não pode puxar:
+
+mortos
+
+memórias
+
+espíritos
+
+máquinas
+
+animais normais
+
+
+
+---
+
+13. Regras de Atravessamento de Poderes Entre Mundos
+
+Aqui estão as leis absolutas:
+
+1. Poder biológico → atravessa mundos
+
+mutações
+
+seiva
+
+músculos
+
+sentidos
+
+aprimoramentos
+
+biotecnologia
+
+
+Funciona em qualquer lugar.
+
+
+---
+
+2. Poder energético → não atravessa
+
+vitalismo
+
+mana
+
+magia
+
+runas
+
+energia positiva
+
+energia negativa
+
+
+Funciona apenas no universo de origem.
+
+
+---
+
+3. Poder híbrido (bio + energia)
+
+Exemplo:
+Pessoa de Chrysalis que desperta Vitalismo em Caelum.
+
+componente biológico → atravessa mundos
+
+componente energético → fica preso ao universo
+
+
+
+---
+
+4. Humanos muito poderosos em Caelum alteram a Terra
+
+Se um convocado:
+
+desperta Vitalismo muito forte
+
+acumula energia emocional intensa
+
+realiza rituais profundos
+
+sofre colapso psicológico
+
+ou se torna figura de impacto dimensional
+
+
+ENTÃO:
+
+a Terra começa a gerar energia
+
+fendas podem surgir
+
+ecos podem nascer
+
+entidades podem notar
+
+a Terra pode perder o status de “mundo invisível”
+
+
+Isso é raro, mas possível.
+
+
+---
+
+
+📍 BLOCO 15.2 — Cosmologia, Entidades Primordiais & Leis Menores
+
+O universo de NoHeroes é vasto, múltiplo e incerto — mas não é caótico por acidente.
+Ele foi criado, moldado e depois corrompido por forças que ultrapassam a compreensão dos mortais.
+
+Este bloco define:
+
+quem criou Caelum
+
+o que são deuses
+
+o que são entidades primordiais
+
+para onde vão as almas
+
+o que o Vazio realmente é
+
+como mundos se relacionam
+
+como o caos começou
+
+e quais são as leis profundas que sustentam a existência
+
+
+Este é o pilar final do universe.md.
+
+
+---
+
+1. O Deus Criador — Yato Aeru
+
+Caelum não nasceu espontaneamente.
+Foi criado por Yato Aeru, o Deus Criador desse mundo específico.
+
+Yato não é um deus universal.
+Não governa todo o multiverso.
+Ele governa apenas sua criação: Caelum.
+
+Filosofia da criação de Yato:
+
+Yato acreditava em uma lei:
+
+> “Nada perfeito pode evoluir. Só o imperfeito pode crescer.”
+
+
+
+Por isso:
+
+Caelum foi criado com falhas
+
+seres vivos possuem limites e brechas
+
+a realidade é vulnerável por design
+
+evolução constante era o verdadeiro propósito do mundo
+
+tudo que existe pode mudar, aprender, errar e ascender
+
+
+As falhas do mundo não foram acidentes.
+Foram intencionais.
+
+O Selamento de Yato
+
+Um Deus Invasor — uma entidade de outro mundo — chegou a Caelum e interferiu nas sombras.
+
+Como:
+
+deuses não podem interferir diretamente no mundo criado por outro
+
+ele usou manipulação, sutileza e corrupção
+
+
+Yato enfrentou esse deus invasor e, no processo, foi selado em um corpo mortal.
+
+Dentro de um corpo humano:
+
+seus poderes destroem sua forma
+
+cada uso arruína o próprio recipiente
+
+então Yato escolheu nunca mais usar seus poderes
+
+e desapareceu do mundo
+
+
+Ninguém sabe onde está.
+Ninguém sabe se ainda vive.
+Ninguém sabe quem é o mortal que o contém.
+
+
+---
+
+2. O Deus Invasor
+
+O Deus Invasor é uma entidade com um propósito:
+
+> “Desmantelar mundos criados pelos outros deuses.”
+
+
+
+Motivações:
+
+não é ódio
+
+não é fome
+
+não é poder
+
+é compulsão, natureza, ordem interior
+
+
+Ele não pode:
+
+destruir Caelum diretamente
+
+quebrar as leis dos deuses
+
+
+Ele pode:
+
+corromper seres
+
+provocar guerras
+
+manipular líderes
+
+abrir caminhos para o Vazio
+
+incitar quedas emocionais
+
+criar catalisadores para calamidades
+
+
+A origem do Deus Invasor é:
+
+desconhecida
+
+de um mundo não catalogado
+
+possivelmente de uma linhagem divina maior
+
+
+Outros deuses podem existir — mas nada é confirmado.
+
+
+---
+
+3. O Vazio — Primordial, mas Adormecido
+
+O Vazio nasceu na criação.
+
+Mas ele não despertou no início.
+Somente após um evento contado na lore principal.
+
+Ele era:
+
+o “resto” da criação
+
+a ausência entre mundos
+
+o eco que sobra quando algo é criado
+
+uma estrutura que não existe, mas também não desaparece
+
+
+Quando despertou:
+
+percebeu emoções
+
+reagiu a energia negativa
+
+começou a “ouvir” o multiverso
+
+tornou-se ativo
+
+tocou Caelum
+
+permitiu a existência de convocados
+
+aproximou mundos
+
+intensificou fendas
+
+chamou sombras à vida
+
+
+O Vazio não é mal.
+Ele é a antítese da criação.
+
+Ele não faz.
+Ele desfaz.
+
+
+---
+
+4. Lurai e Drakkai — Entidades Locais (não divinas)
+
+Lurai e Drakkai não criaram o universo.
+Nem são deuses no sentido pleno.
+
+Eles são:
+
+semideuses
+
+entidades superiores
+
+equivalentes a anjos/demônios
+
+manifestações de forças naturais
+
+
+Lurai = luz, ordem, harmonia
+Drakkai = caos, sombra, ruptura
+
+Ambos:
+
+nasceram de Caelum
+
+são parte da estrutura energética do mundo
+
+funcionam apenas dentro das regras de Caelum
+
+não têm jurisdição universal
+
+
+Eles são peças poderosas — mas não são arquitetos da existência.
+
+
+---
+
+5. Eras Perdidas Antes da Primeira Era
+
+A Primeira Era não foi o início de tudo.
+Existiram eras anteriores — muito antigas e completamente perdidas.
+
+Nada sobreviver dessas eras:
+
+sem registros
+
+sem ruínas
+
+sem espírito
+
+sem energia
+
+sem entidades
+
+
+Somente o Vazio se lembra — mas o Vazio não fala.
+
+
+---
+
+6. Voidrins — Manifestação Viva da Energia Negativa
+
+Voidrins não são demônios.
+Não são criaturas.
+Não são espíritos.
+
+Eles são:
+
+> “Condensações vivas de energia negativa extrema.”
+
+
+
+Eles nascem quando:
+
+guerras massivas acontecem
+
+cidades inteiras caem
+
+mortes coletivas geram trauma
+
+energia negativa ultrapassa limiar crítico
+
+o Vazio se aproxima e “acende” essa massa
+
+
+Eles não vêm do Vazio.
+Eles são criaturas de Caelum, mas geradas por colapso emocional do mundo.
+
+
+---
+
+7. Dragões Ancestrais — Entidades Físicas, Não Espirituais
+
+Dragões ancestrais:
+
+são seres físicos
+
+formados de vitalismo denso
+
+capazes de manipular energia vital pura
+
+extremamente raros
+
+não são deuses
+
+não são espíritos
+
+existem desde eras antigas (pré-Primeira Era)
+
+podem apag ar cidades
+
+são temidos até por Voidrins
+
+
+Eles dormem em eras longas.
+Acordam quando o mundo está perto do colapso.
+
+
+---
+
+8. Espíritos — Existentes em Todos os Mundos
+
+Espíritos não são exclusivos de Caelum.
+Eles existem:
+
+na Terra
+
+em Chrysalis
+
+em outros mundos
+
+nos planos entre mundos
+
+
+Mas cada mundo tem espíritos de natureza e força diferentes.
+
+Espíritos são:
+
+fragmentos de consciência
+
+ecos de energia
+
+resíduos emocionais
+
+seres que perderam corpo, não alma
+
+
+Eles podem evoluir, mas não podem interferir diretamente no físico sem energia adequada.
+
+
+---
+
+9. O Limbo — O Lugar Entre Mundos
+
+Quando alguém morre em Caelum:
+
+a alma não vai para céu
+
+nem para inferno
+
+nem para reencarnação
+
+nem para o Vazio
+
+
+Ela vai para o Limbo.
+
+O Limbo é:
+
+sem tempo
+
+sem espaço
+
+sem matéria
+
+sem cor
+
+sem luz
+
+entre Caelum e o plano espiritual
+
+
+Leis do Limbo:
+
+almas podem dissolver lentamente
+
+almas podem ser consumidas por entidades
+
+almas podem ficar presas para sempre
+
+almas podem, raramente, escapar
+
+nenhuma alma tem garantia de destino
+
+
+Não existe vida após a morte.
+Não existe reencarnação.
+
+O Limbo é o final.
+
+
+---
+
+10. Morte de Convocados — Regra Especial
+
+O corpo do convocado em Caelum é sua Sombra encarnada.
+
+Quando ele morre:
+
+a sombra se desfaz em fragmentos
+
+grande parte da “essência acumulada” se perde
+
+habilidades enfraquecem
+
+vitalismo cai
+
+forma se desestabiliza
+
+
+Mas ela ressurge, reconstruída pelo elo Terra ↔ Caelum.
+
+Não é imortalidade.
+É reconstrução fragmentada.
+
+O jogador paga com:
+
+poder
+
+progresso
+
+estabilidade
+
+risco psicológico
+
+
+Mas não perde sua existência.
+
+
+---
+
+11. A Alma Pode Ser Destruída?
+
+Sim — mas apenas em circunstâncias EXTREMAS:
+
+o Vazio pode destruir almas
+
+algumas entidades ancestrais podem consumir almas
+
+certos fenômenos de fenda podem rasgar almas
+
+colapsos emocionais de convocados podem quebrar ligação com a Terra
+
+
+Mas destruir uma alma é raro e exige força anormal.
+
+
+---
+
+12. Não Existe Vida Após a Morte
+
+No universo NoHeroes, a morte é final.
+
+Quando o corpo morre:
+
+a alma vai para o Limbo
+
+não há renascimento
+
+não há paraíso
+
+não há inferno
+
+não há reencarnação
+
+
+É um universo duro.
+Sombrio.
+E brutalmente coerente.
+
+
+---
+
+13. Leis Menores do Universo
+
+Essas são as leis “não escritas”, mas sempre válidas:
+
+Lei da Imperfeição
+
+> Tudo o que existe deve ter falhas — porque apenas o imperfeito pode evoluir.
+
+
+
+Lei da Sincronia
+
+> Apenas seres sincronizados emocionalmente podem ser convocados.
+
+
+
+Lei da Aderência
+
+> Energia só funciona no universo em que nasceu.
+
+
+
+Lei do Corpo
+
+> O corpo carrega poder biológico; a alma carrega poder energético.
+
+
+
+Lei da Dissolução
+
+> Emoções extremas podem criar, deformar ou destruir energia.
+
+
+
+Lei do Silêncio Eterno
+
+> Nenhum deus pode interferir diretamente na criação de outro deus.
+
+
+
+
+---
 
 
 
