@@ -3125,5 +3125,341 @@ E então o jogador desperta.
 
 
 
+📍 BLOCO 14 — Ecos da Terra e Outras Dimensões (Versão Final)
+
+O universo de NoHeroes não é composto apenas de Caelum.
+Nem apenas de Chrysalis.
+Nem apenas de um punhado de planos mágicos e espirituais.
+
+O multiverso é real — vasto, fragmentado e parcialmente conectado por forças que ninguém compreende completamente.
+
+A Terra é apenas um dentre muitos mundos…
+mas agora, pela primeira vez na história, ela foi tocada por Caelum.
+
+E o resultado disso é o nascimento das Anomalias dos Dois Mundos: os Convocados.
+
+
+---
+
+1. A Terra — Um Mundo Comum em um Multiverso Incomum
+
+A Terra não é sagrada, especial, nem mística.
+É um planeta comum, pequeno, fraco e energeticamente pobre.
+
+Mas isso tem uma consequência inesperada:
+
+ninguém nota a Terra
+
+ela não interfere com outros mundos
+
+ela não atrai deuses, Voidrins ou entidades maiores
+
+ela permanece ignorada no grande esquema das coisas
+
+
+Justamente por isso, ela é um mundo seguro — até agora.
+
+Quando fendas começaram a se espalhar pelo universo,
+uma delas tocou o planeta que ninguém esperava que tivesse relevância:
+a Terra.
+
+E assim, o fio entre mundos começou a vibrar.
+
+
+---
+
+2. Outros Mundos Além de Caelum, Terra e Chrysalis
+
+Além dos três mundos conhecidos, existem outros planos, mas poucos.
+E o mais importante:
+
+ninguém sabe quantos existem.
+
+Há registros de:
+
+planos espirituais
+
+fragmentos dimensionais
+
+mundos colapsados
+
+realidades pequenas e isoladas
+
+planos onde a vida nunca tomou forma
+
+
+Esses mundos não são foco do app —
+mas o universe.md os reconhece como parte do cânone.
+
+No app, sua existência é mencionada apenas de forma sutil.
+
+
+---
+
+3. O Vazio — Não um Conector, mas um Despertador
+
+O Vazio não liga dimensões.
+Ele acorda ligações que já existem.
+
+Ele amplifica:
+
+emoções
+
+energia acumulada
+
+traumas coletivos
+
+colapsos dimensionais
+
+instabilidade vitalista
+
+
+E conforme a Era do Vazio avança, mundos que nunca deveriam se tocar começam a:
+
+ecoar
+
+vibrar
+
+se aproximar
+
+se colapsar
+
+entrar em ressonância
+
+
+O Vazio não abre portas.
+
+Ele quebra paredes.
+
+
+---
+
+4. Seres de Outros Mundos Podem Ser Convocados
+
+Convocados não precisam ser humanos da Terra.
+
+Eles precisam ser:
+
+vivos
+
+emocionalmente intensos
+
+com energia suficiente para ressoar
+
+sincronizados com o eco dimensional no momento exato
+
+
+Isso significa:
+
+✔️ seres não-humanos podem ser puxados
+
+mas são raríssimos.
+
+Regras:
+
+precisam estar vivos
+
+precisam ter consciência
+
+precisam vibrar na ressonância certa
+
+precisam ser compatíveis com o “chamado”
+
+
+Um jogador poderia, no futuro, encontrar:
+
+criaturas inteligentes de outros mundos
+
+anomalias sapientes
+
+seres híbridos
+
+viajantes dimensionais acidentais
+
+
+Todos esses são canônicos — ainda que raros.
+
+
+---
+
+5. A Terra está em risco? Sim — Mas apenas no futuro
+
+Por enquanto, a Terra é tão energeticamente pobre que:
+
+não atrai o Vazio
+
+não atrai Voidrins
+
+não atrai densidade vitalista
+
+não atrai seiva
+
+não atrai predadores dimensionais
+
+
+Mas se muitos humanos se tornarem poderosos em Caelum…
+
+então a Terra pode começar a gerar energia:
+
+vitalista
+
+emocional
+
+dimensional
+
+
+Isso pode:
+
+chamar atenção
+
+gerar rupturas
+
+despertar criaturas
+
+atrair calamidades
+
+quebrar sua invisibilidade no multiverso
+
+
+Por enquanto, está segura.
+Mas não eternamente.
+
+
+---
+
+6. Relação Terra → Caelum (Fluxo Unidirecional)
+
+O fluxo entre mundos é assimétrico:
+
+Terra influencia Caelum
+
+Caelum quase não influencia a Terra
+
+
+Por quê?
+
+Porque Terra é energeticamente pobre.
+Ela não envia energia significativa de volta.
+
+Mas a Terra é um repositório enorme de:
+
+emoções
+
+culpas
+
+traumas
+
+desejos
+
+disciplina
+
+falhas
+
+
+E tudo isso alimenta Caelum quando um humano atravessa o Vazio.
+
+Caelum recebe influxo emocional.
+O jogador recebe Vitalismo.
+
+A relação é funcional:
+
+A Terra alimenta Caelum com emoção — Caelum devolve poder.
+
+
+---
+
+7. A Terra no App — Status Atual
+
+No app, a Terra:
+
+aparece no início via narrativa
+
+aparece em Shadow Quests
+
+influencia o personagem
+
+é local jogável no futuro
+
+será palco de eventos especiais
+
+pode se tornar região acessível de verdade (planos futuros)
+
+
+Mas não é um mapa principal no MVP.
+
+
+---
+
+8. Universos Paralelos — A Verdade Oculta
+
+Sim, eles existem.
+A Trindade acredita nisso.
+As fendas confirmam.
+
+Mas ninguém sabe quantos existem, nem quem vive neles.
+
+Alguns são:
+
+maiores que Caelum
+
+menores que uma cidade
+
+fragmentos quebrados
+
+mundos mortos
+
+mundos onde ninguém jamais existiu
+
+mundos dominados por criaturas inimagináveis
+
+
+E alguns desses mundos podem ecoar em Caelum sem aviso.
+
+
+---
+
+9. A Regra da Convocação
+
+A convocação só puxa:
+
+seres vivos
+
+com consciência
+
+sincronizados no momento certo
+
+
+Não puxa:
+
+mortos
+
+espíritos
+
+memórias
+
+máquinas
+
+animais comuns da Terra
+
+
+Mas pode puxar:
+
+mutantes avançados
+
+seres sapientes de outras dimensões
+
+criaturas inteligentes de universos paralelos
+
+indivíduos altamente emocionais
+
+
+Por enquanto, a maioria dos convocados é humana.
+Mas isso pode mudar.
+
+
+---
+
+
+
 
 
