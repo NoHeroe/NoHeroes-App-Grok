@@ -1,4 +1,4 @@
-📍 BLOCO 1 — Introdução ao Universo NoHeroes (Rascunho)
+📍 BLOCO 1 — Introdução ao Universo NoHeroes
 
 O universo do NoHeroes App existe dentro do multiverso NoHeroes, um conjunto de mundos e dimensões conectados pelo Vazio — uma entidade antiga, sem forma definida, que age como ponte, catalisador e juiz.
 
@@ -93,7 +93,7 @@ E para o Vazio, é apenas parte de um ciclo que ninguém entende.
 ---
 
 
-📍 BLOCO 3 — Natureza da Viagem (Rascunho)
+📍 BLOCO 3 — Natureza da Viagem 
 
 A travessia entre Terra e Caelum não é uma projeção espiritual, nem um sonho lúcido, nem uma experiência mística.
 Ela é literal.
@@ -257,7 +257,7 @@ mecânicas avançadas do app
 ---
 
 
-📍 BLOCO 4 — O Estado do Jogador no Mundo (Rascunho)
+📍 BLOCO 4 — O Estado do Jogador no Mundo
 
 Quando um humano atravessa o Vazio e surge em Caelum, ele não chega como habitante, visitante ou viajante dimensional.
 
@@ -477,7 +477,7 @@ Isso o torna:
 ---
 
 
-📍 BLOCO 5 — Caelum no App (Versão Ajustada)
+📍 BLOCO 5 — Caelum no App
 
 Caelum, dentro do NoHeroes App, não é o mesmo Caelum dos romances ou projetos expandidos.
 Ele é uma versão condensada, funcional e ritualística do mundo real, remodelada pelo caos dimensional da Terceira Era — o período que ocorre após a queda de Aeon & Kaleidos e após a reconstrução parcial do continente.
@@ -716,7 +716,7 @@ E Caelum muda o jogador.
 ---
 
 
-📍 BLOCO 6 — Relação Terra ↔ Caelum (Rascunho)
+📍 BLOCO 6 — Relação Terra ↔ Caelum 
 
 A ligação entre Terra e Caelum não é simbólica, filosófica ou ilusória.
 Ela é literal, porém restrita por regras que nenhum humano — nativo ou convocado — compreende completamente.
@@ -1168,7 +1168,7 @@ Vitalismo é poder, mas é caminho e risco ao mesmo tempo.
 
 
 
-📍 BLOCO 8 — A Sombra / Shadow System (Rascunho)
+📍 BLOCO 8 — A Sombra / Shadow System 
 
 A Sombra é mais do que um reflexo psicológico.
 Ela é uma entidade real, formada quando o usuário atravessa o Vazio.
@@ -2868,6 +2868,262 @@ Elas são cicatrizes vivas — não mecânicas de progresso.
 
 
 ---
+
+
+
+
+📍 BLOCO 13 — Timeline e Estado Atual do Mundo
+
+A história de Caelum atravessou eras marcadas por ascensão, queda, guerras, rituais, traições e dimensões colidindo. O NoHeroes App se passa em um período após toda a lore estabelecida, mas em um ponto temporal propositalmente indefinido, permitindo expansão, mistério e flexibilidade narrativa.
+
+O que importa não é quando o jogador chega —
+é o estado do mundo quando ele desperta.
+
+E Caelum, agora, está à beira de algo novo e terrível.
+
+
+---
+
+1. Antes da Queda — O Tempo dos Quatro Clãs
+
+Muito antes da destruição:
+
+Clã do Sol
+
+Clã da Lua
+
+Clã das Feras
+
+Clã das Runas
+
+
+dominavam o continente Sublicus.
+Eram pilares de poder, tradição, magia e equilíbrio.
+
+Mas o equilíbrio é sempre temporário.
+
+
+---
+
+2. A Ascensão da Legião Negra
+
+A Legião Negra, liderada por Yuna Lannatary, emergiu durante o colapso dos clãs.
+
+Com disciplina militar, ambição e força brutal:
+
+destruiu o Pentágono
+
+absorveu territórios
+
+reorganizou exércitos
+
+tomou regiões antes neutras
+
+se tornou a maior força de Caelum
+
+
+Essa vitória, porém, custou caro.
+Cada avanço abriu feridas na realidade.
+
+
+---
+
+3. A Queda das Grandes Cidades
+
+Após a queda dos clãs e a guerra com o Pentágono, duas tragédias mudaram o continente:
+
+✔️ A Calamidade que destruiu Aeon
+
+Um evento de energia anômala tão intenso que apagou a cidade quase instantaneamente.
+Até hoje, ninguém sabe se foi:
+
+magia
+
+ritual
+
+divindade
+
+ou algo do Vazio
+
+
+Aeon desapareceu como se nunca tivesse existido.
+
+
+---
+
+✔️ O Voidrin que destruiu Kaleidos
+
+Kaleidos não caiu por guerra —
+caiu por aniquilação absoluta.
+
+Um Voidrin completo, atraído por energia negativa acumulada durante as batalhas, atravessou e devorou a cidade inteira.
+
+Foi o dia em que Caelum entendeu que “vitória” não protege ninguém contra o Vazio.
+
+
+---
+
+4. A Reconstrução de Draconis
+
+Draconis havia sido destruída muito antes da queda dos clãs —
+mas, após o colapso político e energético do continente,
+os draconianos encontraram espaço para renascer.
+
+Sob a presença poderosa de Cerverus, a cidade foi reconstruída e hoje:
+
+é lar de elites dracônicas
+
+é bastião de força primordial
+
+e uma das poucas regiões realmente seguras de Caelum
+
+
+
+---
+
+5. O Colapso das Eras — e o Início da Era do Vazio
+
+A Terceira Era acaba silenciosamente.
+
+Caelum não declara uma nova era —
+ele sofre uma.
+
+A nova era recebe, informalmente, um nome temido:
+
+Era do Vazio
+
+Porque é exatamente isso que está acontecendo:
+
+as fendas multiplicam-se
+
+dimensões colidem
+
+energia negativa cresce
+
+criaturas evoluem
+
+calamidades retornam
+
+sombras se fortalecem
+
+e o Vazio acorda
+
+
+A Era do Vazio não começou com um ritual.
+Começou com medo.
+
+
+---
+
+6. A Influência de Chrysalis no Passado
+
+Chrysalis não é novidade.
+
+Muito antes do app, ainda durante conflitos antigos:
+
+mutações apareceram
+
+zumbis surgiram em regiões isoladas
+
+corrupções biológicas N1–N6 foram catalogadas e temidas
+
+fendas biológicas começaram a se abrir
+
+
+Tudo isso foi ignorado durante as guerras —
+mas agora, com Caelum enfraquecido,
+Chrysalis encontra muito mais caminhos para entrar.
+
+
+---
+
+7. Por Que Convocados São Chamados Agora
+
+Convocados não são escolhidos por Caelum.
+Nem pelo Vazio.
+Nem pela Trindade.
+
+Eles são chamados porque:
+
+As fendas começaram a atravessar mundos.
+
+Pela primeira vez:
+
+Caelum toca universos antes inalcançáveis
+
+Chrysalis vaza para além de seus limites
+
+dimensões desconhecidas encostam em Sublicus
+
+seres de outros mundos aparecem
+
+a Terra foi tocada
+
+
+E porque cada convocado:
+
+carrega emoções únicas
+
+gera energia positiva/negativa própria
+
+alimenta ou enfraquece o Vazio
+
+muda o equilíbrio entre forças
+
+
+Eles não são escolhidos.
+São puxaDOS.
+
+
+---
+
+8. O Estado Atual de Caelum
+
+Caelum está em seu estado mais perigoso da história.
+
+O mundo agora é:
+
+✔️ Caótico
+
+Sistema político quebrado, facções em tensão.
+
+✔️ Desestabilizado
+
+Energia vital e negativa oscilando.
+Runas falhando.
+Fendas abrindo.
+
+✔️ Perigoso
+
+Cada ser vivo vive um “soulslike”.
+Criaturas aprendem.
+Dragões apagam cidades.
+Voidrins surgem de dor coletiva.
+
+✔️ Inquieto
+
+Sons no céu.
+Sombras se movendo.
+Eventos dimensionais espontâneos.
+
+✔️ Incontrolável
+
+Nem a Legião Negra, nem Draconis,
+nem o Clã do Sol, nem a Trindade
+conseguem retomar estabilidade.
+
+✔️ Instável
+
+Todo passo fora de muralhas exige coragem, estratégia e destino.
+
+O mundo inteiro está em colapso silencioso.
+
+E então o jogador desperta.
+
+
+---
+
+
 
 
 
