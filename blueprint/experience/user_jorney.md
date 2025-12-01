@@ -687,3 +687,228 @@ As escolhas agora terão consequências.”
 
 
 
+
+⭐ FASE 2 — A ESCOLHA DA CLASSE 
+
+Primeira decisão de peso — define o estilo de vida e o caminho do jogador
+
+
+---
+
+Visão Geral da Fase
+
+Ao atingir o Nível 5, o jogador não é mais um recém-chegado.
+Sua forma estabilizou, sua rotina existe, sua Sombra reagiu a sucessos e falhas,
+NPCs já o reconhecem, e Caelum começa a tratá-lo como uma entidade capaz de moldar seu destino.
+
+É nesse momento que surge o primeiro grande marco:
+A Escolha da Classe.
+
+A classe é menos “um tipo de guerreiro” e mais “um tipo de vida”.
+
+O jogo deixa claro:
+
+> “A classe que você escolher irá definir a forma como evolui.
+Suas escolhas no seu mundo e neste serão alinhadas à sua essência.”
+
+
+
+
+---
+
+Momento 1 — O Chamado da Essência
+
+A Sombra começa a agir de forma diferente.
+Ecos sutis surgem durante missões.
+NPCs percebem a mudança:
+
+> “Você está diferente.. parece mais, autêntico.”
+“Há algo despertando em você.”
+
+
+
+O Santuário começa a reagir ao jogador:
+
+luzes pulsando
+
+ruídos distorcidos
+
+símbolos rúnicos surgindo
+
+energia vibrando
+
+
+É o chamado para assumir um caminho.
+
+
+---
+
+Momento 2 — O Ritual da Classe
+
+O jogador entra numa sala ritual — uma área especial no Santuário que existe apenas para esse momento.
+
+Ali, ele recebe uma apresentação narrativa:
+
+O universo explica o significado das classes
+
+A Sombra fala sobre “caminhos”, “fardos”, “essência”
+
+O jogador entende que sua vida real moldará Caelum
+
+A escolha é profunda, pessoal e transformadora
+
+
+As classes não são listadas aqui.
+A Fase apenas aponta para o arquivo correto:
+
+> Todas as Classes estão descritas em:
+/blueprint/systems/classes.md
+
+
+
+O app mostra visualmente os símbolos das classes disponíveis
+(sem detalhes excessivos).
+
+
+---
+
+Momento 3 — A Escolha (Decisão Irreversível com Dupla Confirmação)
+
+O jogador seleciona uma classe.
+Ao tentar confirmar, o app não deixa.
+
+Primeiro aparece:
+
+1️⃣ “Tem certeza absoluta da classe que deseja trilhar?”
+→ Se sim, aparece a segunda confirmação:
+
+2️⃣ “A troca é possível, mas custará caro — tão caro que para a maioria não existe volta.
+Deseja realmente seguir esse caminho?”
+
+A classe só é confirmada após a segunda aprovação.
+
+
+---
+
+Momento 4 — Consequências da Escolha
+
+Ao escolher a classe:
+
+O jogador ganha:
+
+ritual da classe
+
+missão da classe
+
+item simbólico inicial
+
+aumento em atributos específicos
+
+recomendações de hábitos que combinam com o estilo escolhido
+
+mudança leve na aparência da sombra/avatar
+
+acesso a missões específicas do estilo de vida escolhido
+
+
+Mas também assume limitações:
+
+certos atributos crescem mais lentamente
+
+certos tipos de missões aparecem menos
+
+áreas específicas só serão desbloqueadas por classes compatíveis
+
+
+Isso começa a criar um caminho único.
+
+
+---
+
+Momento 5 — Sistema de Troca (Existe, mas não é simples)
+
+O app deixa claro:
+
+✔️ Trocar de classe é possível
+
+✘ Mas é tão caro que a maioria nunca fará.
+
+Para quem NÃO quer gastar dinheiro real:
+
+precisa de recursos raros
+
+perderá estabilidade parcial
+
+a Sombra reage negativamente
+
+não há reajuste de atributos
+
+não há reorganização de reputação
+
+o jogador pode ficar desalinhado e fraco temporariamente
+
+algumas missões e rotas narrativas serão perdidas para sempre
+
+
+Para quem decide gastar dinheiro no app:
+
+pode trocar com menos dor
+
+recebe um “ritual de reequilíbrio” mais suave
+
+
+Mas mesmo assim:
+não há reset de atributos antigos.
+A nova classe não “conserta” escolhas passadas.
+
+Isso cria impacto, responsabilidade e profundidade.
+
+
+---
+
+Momento 6 — A Reação de Caelum
+
+Após a escolha:
+
+NPCs têm falas novas dependendo da classe
+
+o Santuário muda para o santuário da classe.
+
+a Sombra se adapta ao novo caminho
+
+as missões do sistema (Arca) se alinham
+
+regiões específicas começam a aparecer
+
+histórias únicas são liberadas
+
+diálogos mudam
+
+a narrativa pessoal assume um tom específico
+
+
+É aqui que o jogador começa a sentir:
+
+> “Meu caminho é só meu.”
+
+
+
+
+---
+
+Momento 7 — Fechamento da Fase
+
+Ao fim da Fase 2 o jogador desbloqueia:
+
+✔️ Rituais da Classe
+✔️ Missões da Classe
+✔️ Painel da Classe
+✔️ Recomendações personalizadas
+✔️ Regiões compatíveis
+✔️ Eco emocional exclusivo
+✔️ Mudanças específicas na Sombra
+
+
+---
+
+
