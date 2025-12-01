@@ -2580,3 +2580,294 @@ Bioluminescência, mutações, pulsação orgânica.
 
 
 
+
+📍 BLOCO 12 — Fendas Dimensionais e Anomalias (Versão Final)
+
+As fendas dimensionais são rupturas instáveis no tecido da realidade.
+Elas não fazem parte do processo de convocação, nem estão ligadas ao Shadow System — mas são sintomas diretos de um problema muito maior:
+o desequilíbrio do universo após a Terceira Era e o retorno do Vazio.
+
+As fendas não são portas.
+São feridas.
+
+E cada ferida revela um tipo diferente de verdade.
+
+
+---
+
+1. Frequência e Localização
+
+Fendas surgem em intensidade moderada.
+Não são raras demais para serem ignoradas, nem comuns o suficiente para virarem rotina.
+
+Elas aparecem de duas formas:
+
+✔️ Fendas Fixas (Locais Marcados)
+
+Locais permanentes onde o tecido da realidade está fragilizado:
+
+ruínas de Aeon
+
+profundezas de Sublicus
+
+zonas sombrias da Floresta Branca
+
+regiões draconianas afetadas por guerras antigas
+
+áreas próximas ao Santuário do Vazio
+
+
+✔️ Fendas Aleatórias
+
+Aparecem e desaparecem:
+
+após eventos caóticos
+
+em zonas de vitalismo descontrolado
+
+em locais marcados por emoções extremas (batalhas, mortes, tragédias)
+
+em áreas de convergência dimensional
+
+
+
+---
+
+2. Para Onde as Fendas Levam
+
+Fendas conectam Caelum a:
+
+O Vazio — energia primordial da não existência
+
+Chrysalis — plano mutado, biológico e perigoso
+
+Dimensões desconhecidas — fragmentos de realidades não catalogadas
+
+Regiões distantes do próprio Caelum (atalhos e zonas brutais)
+
+
+Elas não conectam Caelum à Terra.
+
+Cada tipo de fenda muda a estabilidade, risco e criatura que pode surgir.
+
+
+---
+
+3. Tipos de Fendas Dimensionais
+
+As fendas são classificadas como:
+
+✔️ Fendas do Vazio
+
+Fraturas puras entre mundos.
+Geram:
+
+Sombras autônomas
+
+Aberrações
+
+Fragmentos instáveis
+
+
+Extremamente perigosas.
+
+✔️ Fendas de Chrysalis
+
+Abertas apenas em zonas profundas/instáveis.
+Traçam mutantes, zumbis corrompidos e corrupções N1–N6.
+
+✔️ Fendas Positivas (raríssimas)
+
+Relacionadas a energia positiva.
+Trazem espíritos, ecos de luz e fenômenos únicos.
+
+✔️ Fendas Caóticas / Dimensões Desconhecidas
+
+Cada uma é diferente.
+Podem gerar criaturas inéditas, físicas ou espirituais.
+
+✔️ Fendas Internas de Caelum (Atalhos / Brutal Zones)
+
+Criam passagens para:
+
+regiões inacessíveis
+
+áreas brutais com criaturas de alto nível
+
+templos distorcidos
+
+zonas de loot especial (eventos apenas)
+
+
+
+---
+
+4. Interação do Jogador com Fendas
+
+O jogador pode entrar em fendas, mas não em todas.
+
+✔️ Apenas Fendas Estáveis
+
+Aquelas que alcançaram uma mínima “coerência energética”.
+
+✔️ Entrar sempre tem risco real
+
+Dano, perda de recursos, encontros brutais — cada fenda tem perigo significativo.
+
+✔️ Jogador não pode fechar fendas
+
+Nenhuma facção consegue.
+Nem runas, nem vitalismo, nem rituais.
+
+O máximo que se pode fazer é sobreviver.
+
+Fendas fecham sozinhas quando:
+
+perdem energia
+
+são “digeridas” pelo ambiente
+
+ou o Vazio recolhe o fragmento
+
+
+
+---
+
+5. Origem dos Fenômenos Fendários
+
+Fendas surgem por:
+
+colisões dimensionais
+
+eventos de Chrysalis
+
+instabilidade vitalista
+
+excesso de energia negativa
+
+locais de morte ou trauma coletiva
+
+influência profunda do Vazio
+
+batalhas antigas que marcaram o tecido do mundo
+
+
+Voidrins completos não vêm das fendas.
+Eles surgem de aglomerações extremas de energia negativa, como:
+
+guerras
+
+genocídios
+
+mortes massivas
+
+tragédias históricas
+
+colapsos de vitalismo positivo
+
+
+Eles são calamidades vivas — não invasores.
+
+
+---
+
+6. Efeitos Temporários das Fendas no Mapa
+
+Quando uma fenda abre, ela altera a região ao redor:
+
+clima
+
+luminosidade
+
+cor do ambiente
+
+risco de criaturas
+
+comportamento espacial (distâncias estranhas, ruídos, distorções)
+
+
+Essas mudanças duram:
+
+até a fenda fechar
+
+ou até que a energia do ambiente estabilize
+
+
+Algumas áreas ficam famosas por sempre voltarem a romper — hotspots naturais de fendas.
+
+
+---
+
+7. Fendas e o Shadow System
+
+Fendas não influenciam o Shadow System.
+
+A Sombra do jogador é interna e nasce de:
+
+emoções
+
+falhas
+
+vícios
+
+traumas
+
+instabilidade do usuário
+
+
+Fendas são fenômenos externos, independentes, com outra origem.
+
+As duas coisas convivem, mas não se alimentam entre si.
+
+
+---
+
+8. Fendas e Itens Exclusivos
+
+Fendas podem gerar itens exclusivos, mas somente durante eventos:
+
+loot biológico de Chrysalis
+
+fragmentos rúnicos partidos
+
+essências raras
+
+itens temporários
+
+materiais para crafting especial
+
+
+Fora de eventos, loot de fendas é secundário.
+
+
+---
+
+9. O Papel Narrativo das Fendas
+
+Fendas não são pilar de gameplay.
+Elas são pilar narrativo.
+
+Servem para:
+
+explicar invasões
+
+justificar criaturas diversificadas
+
+permitir eventos especiais
+
+conectar Chrysalis a Caelum
+
+adicionar mistério e caos ao mundo
+
+aprofundar o lore do Vazio
+
+dar vida ao estado pós-Terceira Era
+
+
+Elas são cicatrizes vivas — não mecânicas de progresso.
+
+
+---
+
+
+
