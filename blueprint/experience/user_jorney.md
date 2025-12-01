@@ -1,603 +1,333 @@
+📍 Fase 0 — O Despertar (Onboarding)
 
-📍 USER JOURNEY — Parte 1: O Despertar
+(versão final, alinhada ao conceito de APP, não game)
 
-(pronto para colar no arquivo)
+Aqui está a Fase 0 completa, exatamente no formato que vai para o user_journey.md — narrativa + UX + mecânica.
 
-1. O Despertar em Caelum
-
-O jogador desperta em meio às ruínas de Caelum, exposto, vulnerável e confuso.
-O ambiente é perigoso: criaturas rondam ao longe, o céu está fragmentado, e o ar vibra com distorções.
-
-O jogador surge em sua forma inicial de Sombra humanoide simples, um corpo recém-condensado, ainda instável.
-Ele não sabe quem é, nem onde está.
-
-Antes que criaturas o alcancem, um NPC desconhecido o encontra e o resgata — levando o jogador para um local seguro.
-
-Esse NPC serve como ponte entre:
-
-o caos do mundo real de Caelum
-
-e a primeira noção de orientação
-
-
-Não há explicação longa: apenas o suficiente para sobreviver.
+Leia com calma.
+Se aprovar, seguimos para a Fase 1.
 
 
 ---
 
-2. A Revelação da Sombra
+⭐ FASE 0 — O DESPERTAR
 
-Quando o jogador desperta no local seguro, o NPC explica o básico:
-
-“Você não é desse mundo.”
-
-“Sua forma aqui é apenas um reflexo condensado.”
-
-“Você é uma Sombra de Caelum.”
-
-“E só está vivo porque o Vazio permitiu que você passasse.”
-
-
-Depois disso, o primeiro ato de identidade começa:
-
-O jogador escolhe:
-
-o nome
-
-pequenos ecos de personalidade (opcional)
-
-
-Mas nada muito pesado — só o suficiente para reforçar que ele é a projeção dele mesmo, mas alterado pelo mundo.
+(Onboarding do NoHeroes App — versão final e refinada)
 
 
 ---
 
-3. Primeiras 24 horas — Liberdade parcial
+Introdução da Fase
 
-O jogador não tem liberdade total no começo.
+A Fase 0 é o momento em que o usuário entra no universo NoHeroes pela primeira vez.
+Não é um jogo, não é combate, não é exploração:
+é imersão narrativa guiada, igual um RPG narrado de alto nível.
 
-Nos primeiros passos, ele experimenta um fluxo guiado:
+O objetivo é simples:
 
-o NPC o conduz
+apresentar o universo
 
-o Santuário ainda não está acessível
+estabilizar a forma
 
-o mapa é limitado
+introduzir hábitos
 
-algumas áreas estão instáveis
+conectar o mundo real ao mundo de Caelum
 
-criaturas sofrem interferência e não podem ser enfrentadas ainda
+entregar sensação de risco sem frustração
 
-
-O objetivo do início é:
-
-evitar frustração
-
-evitar combate prematuro
-
-manter narrativa integrada ao tutorial
-
-mostrar Caelum desde o começo como um mundo perigoso e real
+guiar o usuário até o “estado jogável”
 
 
-Ele tem escolhas, mas dentro de um corredor narrativo.
+Sem pressão.
+Sem obrigação.
+Sem escolhas pesadas ainda.
 
 
 ---
 
-4. Primeiro Ritual / Primeiro Hábito
+Momento 1 — O Despertar
 
-O jogador recebe seu primeiro ritual não no Santuário, mas no:
+A narrativa abre diretamente em segunda pessoa:
 
-Campo de Treino
-
-Esse é o local onde:
-
-a forma sombra se estabiliza
-
-o jogador aprende a executar ações básicas
-
-ele entende a dinâmica do “ritual diário”
-
-aprende a lógica da evolução da sombra
-
-recebe seu primeiro hábito real
+> “Você desperta entre ruínas antigas…
+A luz do céu parece quebrada.
+Há algo errado com seu corpo.”
 
 
-Aqui o jogador entende:
 
-> “Evoluir em Caelum depende do que você faz fora dele.”
+O jogador vê:
 
+ruínas de Caelum
+
+céu fragmentado
+
+partículas dimensionais
+
+criaturas observando ao longe
+
+o próprio corpo como Sombra humanoide simples
+
+
+Ainda não há movimento ou comandos.
+É a apresentação do tom:
+
+místico
+
+sombrio
+
+vitalista
+
+introspectivo
 
 
 
 ---
 
-5. Primeira Aparição da Sombra Interna
+Momento 2 — O Resgate
 
-A primeira Sombra Interna NÃO aparece no tutorial.
+Antes que as criaturas se aproximem, surge um NPC desconhecido.
 
-Ela só surge após a primeira falha real no mundo físico.
+Esse NPC:
 
-Quando isso acontece:
+não explica tudo
 
-a tela distorce
+é objetivo
 
-áudio se desfaz
+não é mentor nem amigo
 
-a Sombra Interna aparece na visão do jogador
-
-ela fala ou age de acordo com o tipo de falha
-
-ela some logo depois
+apenas “cumpre função”
 
 
-Isso cria o primeiro impacto psicológico:
+> “Venha. Se ficar aí, o Vazio coleta você.”
 
-> “A sua falha no mundo real gerou algo dentro de Caelum.“
 
+
+Ele guia o jogador para um local seguro.
+
+Tudo é por texto.
+Uso narrativo leve — como “A Dark Dragon”.
+
+
+---
+
+Momento 3 — Primeiro Contato
+
+No local seguro (um abrigo improvisado), o NPC explica o mínimo necessário:
+
+“Você não é de Caelum.”
+
+“Sua forma aqui é uma Sombra.”
+
+“Ainda está instável.”
+
+“Se quiser sobreviver, vai precisar aprender rápido.”
+
+
+Sem discursar.
+Sem romancear.
+Direto e frio.
+
+
+---
+
+Momento 4 — Criação da Identidade
+
+Aqui o jogador:
+
+escolhe nome
+
+escolhe configurações de fala (mudo ou com falas)
+
+escolhe preferência de narrativa curta/longa
+
+recebe explicação breve:
+
+
+> “Caelum só reage à disciplina.
+E sua forma sombra é moldada pelo que você faz no outro mundo.”
+
+
+
+Sem falar de classe.
+Sem falar de facção.
+Sem falar de Vitalismo.
+
+Simples.
+Cirúrgico.
+
+
+---
+
+Momento 5 — Primeiro Hábito
+
+O NPC entrega o primeiro “ritual” — mas esse ritual é um hábito essencial, criado pelo próprio jogador:
+
+hidratação
+
+treino leve
+
+leitura
+
+meditação
+
+escrita
+
+sono
+
+organização
+
+etc.
+
+
+O usuário ESCOLHE.
+
+Isso é importante para:
+
+autoridade
+
+autonomia
+
+identificação com o app
+
+criar vínculo entre vida real e Caelum
 
 
 
 ---
 
-6. Entendendo Caelum
+Momento 6 — Campo de Treino (Versão Inicial)
 
-O jogador NÃO entende Caelum completamente no início.
+O app apresenta:
 
-A compreensão vem somente após concluir o prólogo:
+animação simples
 
-história do mundo
+descrição ritualística
 
-facções
+“você sente sua forma mexer…”
 
-criaturas
-
-anomalias
-
-origem da própria forma
+tutorial de como hábitos impactam Caelum
 
 
-Ele só entende Caelum realmente pedaço por pedaço, durante:
-
-diálogos
-
-eventos guiados
-
-encontros com criaturas
-
-exploração das regiões
-
-
-Isso dá ao mundo uma sensação de mistério consistente.
+Nenhuma ação de jogo.
+Tudo narrado + interface.
 
 
 ---
 
-7. Primeiro Contato com Criaturas
+Momento 7 — A Primeira Falha
 
-Ainda no prólogo, nas ruínas iniciais, o jogador VÊ criaturas — mas não luta com elas.
+Em algum momento das próximas horas (ou no dia seguinte),
+o app força a primeira falha do usuário — OU interpreta a primeira ausência como falha.
 
-Tipos possíveis:
+Aqui surge:
 
-besta pequena
+A Sombra Interna.
 
-lobo corrompido
-
-aberração instável
-
-sombra autônoma
-
-
-Elas servem para criar:
-
-perigo real
-
-imersão
-
-sentimento de vulnerabilidade
-
-urgência narrativa
-
-
-Mas o combate ainda não acontece.
-
-
----
-
-8. Estilo do Prólogo
-
-O prólogo não é cinematográfico puro.
-
-Ele é:
-
-✔️ Um tutorial funcional disfarçado de narrativa
-
-com:
-
-eventos atmosféricos
-
-diálogos curtos
-
-NPC útil
-
-progressão natural
-
-nada de cutscenes longas
-
-
-Ele mergulha o jogador na história sem virar uma novela.
-
-
----
-
-9. Escolha de Facção
-
-O jogador NÃO escolhe facção no início.
-
-Ele só terá essa escolha:
-
-após missões específicas
-
-quando entender o mundo
-
-quando tiver forma mais estável
-
-quando fizer parte da sociedade de Caelum
-
-
-Isso deixa a escolha mais pesada e significativa.
-
-
----
-
-10. Primeiro Impacto Emocional
-
-O impacto emocional acontece logo no início quando:
-
-a Sombra Interna surge pela primeira vez
-
-o jogador é exposto ao próprio “erro”
-
-a forma sombra reage ao estado mental dele
-
-o mundo distorce
-
-a narrativa mostra o “preço psicológico” das falhas
-
-
-É o momento que define o tom:
-
-> “Esse não é só um app de hábitos — é um espelho.”
-
-
-
-
----
-
-
-
-📍 USER JOURNEY — Parte 2: Semana 1 (Versão Final)
-
-Após o despertar nas ruínas e o resgate inicial, o jogador entra em sua primeira semana real em Caelum.
-Essa semana determina:
-
-o tom emocional da jornada,
-
-o ritmo de progressão,
-
-a relação com o NPC resgatista,
-
-o primeiro contato com missões,
-
-a primeira falha e a primeira reação da Sombra,
-
-desbloqueios core do app,
-
-a sensação de descoberta constante,
-
-o sentimento de que Caelum é vivo e reage ao jogador.
-
-
-A Semana 1 é guiada, mas não é infantil.
-É segura o bastante para aprender, perigosa o suficiente para respeitar.
-
-O tema emocional da semana:
-
-D — Descoberta
-
-
----
-
-1. Dia 1 — O Acordar do Fraco
-
-(após o prólogo)
-
-O jogador:
-
-ainda está instável, sua forma sombra é fraca
-
-recebe orientações básicas do NPC que o salvou
-
-não cria hábitos automaticamente
-
-precisa criar seu primeiro hábito manualmente
-
-aprende que progresso real no mundo físico altera sua forma em Caelum
-
-tem acesso limitado ao Campo de Treino em versão “iniciante”
-
-
-Desbloqueios do Dia 1:
-
-🎯 Criação do primeiro hábito
-
-🎯 Primeiro ritual simples
-
-🎯 Campo de Treino (versão limitada)
-
-🎯 Inventário travado
-
-🎯 Mundo exterior inacessível
-
-🎯 Sombra Interna ainda não aparece
-
-
-O jogador então dorme pela primeira vez no Santuário provisório (ainda não o verdadeiro Santuário central).
-
-
----
-
-2. Dia 2 — O Mundo Observa
-
-O jogador cria sua primeira rotina real.
-
-O Campo de Treino agora:
-
-mostra animações reais
-
-introduz a ideia de “crescimento incremental”
-
-ensina o jogador a estabilizar a forma sombra por micro-rituais
-
-
-O NPC o guia novamente, explicando parte da lógica:
-
-> “Sua forma aqui depende do que faz onde veio.
-Seu corpo lá alimenta sua sombra aqui.”
-
-
-
-Desbloqueios do Dia 2:
-
-🎯 Acesso ao menu de Missões Individuais (primeiro contato)
-
-🎯 Primeira missão simples dada pelo NPC (ajudá-lo)
-
-🎯 Inventário desbloqueado após missão 1
-
-🎯 Loja vista pela primeira vez (ainda limitada)
-
-
-A Sombra Interna ainda não aparece.
-
-
----
-
-3. Dia 3 — A Primeira Falha
-
-Hoje é garantido que o jogador:
-
-falhe pelo menos um ritual/hábito, ou
-
-falhe uma missão simples
-
-
-Quando isso acontecer pela primeira vez:
-
-A Sombra Interna aparece.
-
-Com distorção visual e auditiva, ela reage:
+Ela reage:
 
 ao erro
 
-ao emocional do jogador
+ao estado emocional
 
-ao estado da forma
+ao tipo de hábito
 
-e desaparece logo depois
-
-
-Esse é o primeiro impacto emocional real do app.
-
-Desbloqueios do Dia 3:
-
-🎯 Shadow Feedback (sucesso + falha)
-
-🎯 Painel da Sombra liberado parcialmente
-
-🎯 Sistema de estabilidade começa a contar
-
-🎯 Missões Individuais nível 1 liberadas
+ao que o jogador fez ou deixou de fazer
 
 
+É rápida.
+É subjetiva.
+Não é jumpscare.
+É íntima.
 
----
+O tom:
 
-4. Dia 4 — Primeira Missão Real
+poético
 
-Hoje o jogador começa sua jornada prática:
+sombrio
 
-Primeira missão real = Ajudar o NPC que o salvou
+místico
 
-Essa missão:
-
-apresenta objetos
-
-introduz coleta leve
-
-dá contexto do mundo
-
-mostra o “funcionamento ritualístico” de Caelum
-
-abre o inventário após conclusão
+reflexivo
 
 
-Desbloqueios:
+Mostra o eixo do app:
 
-🎯 Inventário totalmente ativo
+> O maior inimigo é você.
 
-🎯 Loja ativa para compras pequenas
-
-🎯 Campo de Treino expansão 1 liberado
-
-🎯 Missões Individuais nível 2 ativadas
 
 
 
 ---
 
-5. Dia 5 — A Forma Começa a Estabilizar
+Momento 8 — Primeiro Combate Simbólico
 
-O jogador agora entra no ritmo:
+Não é combate real.
+É combate narrativo.
+
+Um inimigo fraco aparece na narrativa das ruínas, mas:
+
+o NPC impede
+
+ou o ambiente desfaz a criatura
+
+ou a narrativa corta abruptamente
+
+
+Serve para:
+
+introduzir criaturas
+
+dar contexto de perigo
+
+reforçar que a forma ainda é instável
+
+
+Nenhuma mecânica de combate real ainda.
+
+
+---
+
+Momento 9 — Conclusão da Fase 0
+
+Quando o usuário completa:
 
 1 hábito criado
 
-2–3 missões individuais feitas
+1 missão simples
 
-Campo de Treino usado
+1 visita ao Campo de Treino
 
-primeira falha já aconteceu
+1 falha
 
-missão real concluída
+1 ritual executado
 
-
-Com isso, sua forma sombra adquire estabilidade parcial.
-
-Desbloqueios:
-
-🎯 Santuário verdadeiro fica disponível
-
-🎯 Avatar (edição básica) liberado
-
-🎯 Acesso a estética sombra inicial
-
-🎯 Interface principal sincroniza com Caelum
+1 narrativa inicial
 
 
-Hoje é a primeira vez que o jogador vê o Santuário como ele realmente é.
-A vibe muda completamente.
+Ele desbloqueia:
 
+✔️ Santuário (versão básica)
 
----
+✔️ Inventário (vazio)
 
-6. Dia 6 — Preparação para o Primeiro Combate
+✔️ Loja (nível 0)
 
-O jogador recebe:
+✔️ Missões Individuais iniciais
 
-um conjunto de missões
+✔️ Painel da Sombra (parcial)
 
-exercícios no Campo de Treino
+✔️ Campo de Treino (nível 1)
 
-rituais de estabilização
+E a mensagem final:
 
-micro narrativas sobre Caelum
-
-
-E aprende que:
-
-> “Somente uma sombra estável pode tocar criaturas reais de Caelum.”
+> “Agora você caminha por conta própria.
+Caelum só seguirá adiante se você seguir também.”
 
 
 
-Hoje o jogador completa um total de 10 missões individuais.
+Isso marca o fim do tutorial.
 
-Isso é proposital — prepara para o marco da semana.
-
-Desbloqueios:
-
-🎯 Campo de Treino totalmente desbloqueado
-
-🎯 Áudio/efeitos de tensão em ambientes ritualísticos
-
-🎯 Loja expandida (itens básicos)
-
+A jornada de verdade começa na Fase 1.
 
 
 ---
-
-7. Dia 7 — O Primeiro Encontro Real
-
-Após 10 missões concluídas, a forma sombra do jogador atinge estabilidade suficiente
-para lutar pela primeira vez.
-
-Então, na pequena área externa do Santuário:
-
-O jogador enfrenta sua primeira criatura real.
-
-não é grande
-
-não é épica
-
-mas é extremamente simbólica
-
-fecha a Semana 1 com significado
-
-
-Desbloqueios finais da Semana 1:
-
-✔️ Estabilidade da Sombra confirmada
-
-✔️ Missões Diárias liberadas
-
-✔️ Missões Individuais nível 3
-
-✔️ Inventário 100% funcional
-
-✔️ Loja nível 1 desbloqueada
-
-✔️ Campo de Treino completo
-
-✔️ Santuário completo
-
-✔️ Avatar editável (básico)
-
-✔️ Preparação para facções futura
-
-✔️ Mundo externo começando a abrir
-
-
-
----
-
-❗ Semana 1 — Resultado Final
-
-No final da primeira semana o jogador:
-
-⚫ Tem forma estável
-
-⚫ Tem rituais diários funcionando
-
-⚫ Tem Campo de Treino completo
-
-⚫ Conquistou primeira vitória em combate
-
-⚫ Viu a Sombra Interna
-
-⚫ Entendeu que Caelum reage ao mundo real
-
-⚫ Desbloqueou Santuário completo
-
-⚫ Editou avatar
-
-⚫ Liberou inventário e loja
-
-⚫ Está pronto para facções e regiões externas
-
-Essa semana cria a base emocional, psicológica e mecânica do jogo.
-
----
-
-
-
-
