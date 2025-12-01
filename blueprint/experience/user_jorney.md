@@ -912,3 +912,298 @@ Ao fim da Fase 2 o jogador desbloqueia:
 ---
 
 
+⭐ FASE 3 — A ESCOLHA DA FACÇÃO (Nível 7)
+
+Segunda grande decisão irreversível — o caminho social e político do jogador em Caelum
+
+
+---
+
+Visão Geral da Fase
+
+Ao atingir Nível 7, o jogador encerra sua “infância” em Caelum.
+Nesse ponto:
+
+ele tem rotina
+
+sua Sombra já o conhece
+
+a classe está definida
+
+NPCs reconhecem seu potencial
+
+missões e regiões já fazem sentido
+
+o Santuário reage a ele
+
+
+Agora começa a fase social, política e cultural da jornada:
+a escolha da facção.
+
+A facção define:
+
+com quem o jogador anda
+
+quem o ajuda
+
+quem o rejeita
+
+que missões ele recebe
+
+que narrativa pessoal se abre
+
+que itens e bônus ganha
+
+como NPCs tratam ele
+
+que inimigos o reconhecem
+
+
+Nesse ponto, Caelum deixa de ser só um “mundo misterioso”
+e passa a ser um mundo vivo, que realmente responde ao jogador.
+
+
+---
+
+Momento 1 — O Chamado das Facções
+
+Ao atingir o Nível 7, o jogador recebe um convite para retornar ao Santuário.
+
+O NPC responsável pela orientação do jogador se aproxima:
+
+> “Você já caminhou sozinho tempo suficiente.
+Agora Caelum quer saber quem você é entre os vivos.
+E para isso… deve escolher um lar.”
+
+
+
+Nesse momento, o painel de facções é desbloqueado.
+
+
+---
+
+Momento 2 — Apresentação das Facções
+
+No Santuário, o NPC apresenta as facções do mundo —
+não com detalhes pesados, mas com tom imersivo, direto e cheio de personalidade.
+
+O objetivo é comunicar:
+
+identidade
+
+valores
+
+o que buscam
+
+tipo de jogador que se encaixa
+
+riscos de cada uma
+
+
+Cada facção tem:
+
+sua cor
+
+seu símbolo
+
+seu estilo
+
+seu tom narrativo
+
+seu foco mecânico
+
+
+Mas o User Journey não lista detalhes —
+tudo isso fica no arquivo:
+
+/blueprint/systems/factions.md
+
+
+---
+
+Momento 3 — O Teste de Admissão
+
+O jogador não pode simplesmente “clicar e entrar”.
+
+Cada facção exige um trio de missões de admissão.
+
+as missões são fixas por facção
+
+o conteúdo é baseado na filosofia da facção
+
+a dificuldade depende da reputação do jogador
+
+falhar o trio significa ser recusado
+
+
+Se for recusado:
+
+perde reputação
+
+a facção passa a desconfiar dele
+
+as próximas tentativas ficam mais difíceis
+
+
+Perfeito para:
+
+evitar escolhas impulsivas
+
+criar peso e significado
+
+reforçar a profundidade da narrativa
+
+
+
+---
+
+Momento 4 — Onde a Escolha Acontece
+
+A admissão e a escolha final acontecem na:
+
+✔️ Sala da Guilda (neutra e ritualística)
+
+Não é um templo de facção.
+Não é uma provação física.
+É um “lugar intermediário”,
+onde o jogador está entre:
+
+independência
+
+e vida social de Caelum.
+
+
+Isso dá peso simbólico.
+
+
+---
+
+Momento 5 — A Provação
+
+A provação é textual e ritualística,
+mas exige habilidades reais:
+
+hábitos específicos
+
+rituais
+
+pequenas escolhas
+
+consistência
+
+ações no mundo real
+
+ações dentro do app
+
+
+O jogador pode ser aprovado ou reprovado.
+
+Essa é a sensação:
+
+> “Eu fui aceito por eles.”
+
+
+
+
+---
+
+Momento 6 — A Escolha da Facção
+
+Ao completar o trio de missões:
+
+o jogador confirma a facção
+
+recebe dupla confirmação
+
+e então firma o pacto
+
+
+A narrativa é direta:
+
+> “A partir de agora, você é um de nós.”
+“E isso tem preço.”
+
+
+
+
+---
+
+Momento 7 — Consequências da Escolha
+
+Ao entrar numa facção, o jogador desbloqueia:
+
+✔️ Bônus de atributos específicos
+
+✔️ Itens exclusivos da facção
+
+✔️ Missões exclusivas
+
+✔️ NPCs exclusivos (mestres, líderes, emissários)
+
+✔️ Histórias exclusivas
+
+✔️ Loja da facção
+
+✔️ Relacionamentos únicos com NPCs
+
+✔️ Rota narrativa leve exclusiva
+
+✔️ Mini-eventos de facção
+
+Agora o jogador tem uma identidade dentro de Caelum.
+
+
+---
+
+Momento 8 — Trocar de Facção (possível, mas terrível)
+
+Se o jogador abandonar sua facção:
+
+Penalidades:
+
+perde toda reputação da facção
+
+é temporariamente banido dela
+
+recebe um debuff de -50% recompensas em missões por 48h
+
+NPCs comentam ou ignoram o jogador
+
+missões exclusivas são perdidas para sempre
+
+bônus da facção são removidos
+
+algumas rotas narrativas se fecham permanentemente
+
+a Sombra observa, mas não interfere
+
+
+Isso cria o sentimento certo:
+
+“Se eu trair, vou pagar o preço.”
+
+E evita abusos.
+
+
+---
+
+Momento 9 — Conclusão da Fase
+
+Ao concluir a Fase 3, o jogador ganha:
+
+✔️ Uma facção
+✔️ Missões próprias
+✔️ Nova camada de narrativa
+✔️ Novo estilo de jogo
+✔️ NPCs aliados
+✔️ Janelas de novos conflitos
+✔️ Acesso à economia mais profunda
+✔️ Reputação ativa
+✔️ Pressão social narrativa (positiva e imersiva)
+
+---
+
+
+
+
+
